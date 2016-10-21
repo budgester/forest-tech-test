@@ -1,4 +1,4 @@
-he following use case might be a real-life example from one of our customers, please deliver your best possible solution. Please go through the described scenario and write 2 scripts, one in Windows Batch and one in Unix BASH implementing a fix to the issue below. For the development of the scripts you have 24h and are allowed to use Google and any other material as long as the work submitted was written by you.
+The following use case might be a real-life example from one of our customers, please deliver your best possible solution. Please go through the described scenario and write 2 scripts, one in Windows Batch and one in Unix BASH implementing a fix to the issue below. For the development of the scripts you have 24h and are allowed to use Google and any other material as long as the work submitted was written by you.
 
 Use Case: 
 
