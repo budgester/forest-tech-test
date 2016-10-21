@@ -14,12 +14,4 @@ Use Case:
 
 -    In addition the database version table is updated after the install with the latest number.
 
- 
-
-How would you implement this in order to create an automated solution to the above requirements?
-
-Please send us your scripts and any associated notes by for our review and we will come back to you asap regarding next steps.  
-
-Please confirm your receipt of this email.
-
-We are looking forward to your submission.
+How would you implement this in order to create an automated solution to the above requirements
