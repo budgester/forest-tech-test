@@ -1,0 +1,24 @@
+Make sure you have Vagrant installed on your PC.
+
+In the top level folder there is a file call Vagrantfile.
+
+To run this type:
+
+ vagrant up
+
+
+This will run a new virtual linux instance on your computer, which will then procede to do the following things.
+
+1. Install mysql-server
+2. Create a database called forest
+3. Create a table with 1 table called version that hold the db verions in a column called version (Initially set to version 2)
+4. Run the required upgrade scripts from the upgrade directory.
+
+You can also login to the vagrant instance by :
+
+  vagrant ssh
+
+The bash scripts are in "sql-scripts" directory.
+The sql upgrade scripts are avaialable in "sql-scripts/upgrades"
+
+The above scripts are on the vagrant box under /vagrant/sql-scripts
